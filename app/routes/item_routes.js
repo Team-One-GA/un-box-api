@@ -27,7 +27,7 @@ router.get('/items/:id', requireToken, (req, res, next) => {
 
 // Create
 router.post('/items', requireToken, (req, res, next) => {
-  req.body.item.owner = req.user.id
+  req.body.item.owner = req.user._id
   Item.create(req.body.item)
     .then(item => {
       res.status(201).json({ item: item.toObject() })
