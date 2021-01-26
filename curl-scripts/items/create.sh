@@ -12,6 +12,7 @@ curl "${API}${URL_PATH}" \
     "item": {
       "name": "'"${NAME}"'",
       "quantity": "'"${QUANTITY}"'",
+      "cost": "'"${COST}"'",
       "size": "'"${SIZE}"'",
       "room": "'"${ROOM}"'",
       "category": "'"${CATEGORY}"'",
