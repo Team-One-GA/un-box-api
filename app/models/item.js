@@ -9,6 +9,14 @@ const exampleSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
+  size: {
+    type: String,
+    required: true
+  },
+  room: {
+    type: String,
+    required: false
+  },
   category: {
     type: String,
     required: false
@@ -17,7 +25,7 @@ const exampleSchema = new mongoose.Schema({
     type: Boolean,
     required: false
   },
-  size: {
+  owner: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
     required: true
