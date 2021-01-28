@@ -25,10 +25,6 @@ const item = new mongoose.Schema({
     type: String,
     required: false
   },
-  fragile: {
-    type: Boolean,
-    required: false
-  },
   owner: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User',
