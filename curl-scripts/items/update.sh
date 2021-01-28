@@ -15,8 +15,7 @@ curl "${API}${URL_PATH}/${ID}" \
       "cost": "'"${COST}"'",
       "size": "'"${SIZE}"'",
       "room": "'"${ROOM}"'",
-      "category": "'"${CATEGORY}"'",
-      "fragile": "'"${FRAGILE}"'"
+      "category": "'"${CATEGORY}"'"
     }
   }'
 
