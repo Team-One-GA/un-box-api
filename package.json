@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "eslint-plugin-import": "^2.22.1",
@@ -23,6 +23,8 @@
     "mongodb": "^3.6.3",
     "mongoose": "^5.11.13",
     "node": "^15.4.0",
+    "node-gyp": "^7.1.2",
+    "node-pre-gyp": "^0.17.0",
     "passport": "^0.4.1",
     "passport-http-bearer": "^1.0.1"
   },
