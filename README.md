@@ -35,7 +35,7 @@ This project version one should allow a user to sign up, sign in, change passwor
 ## Images
 
 #### Wireframe:
-![wireframe](https://media.git.generalassemb.ly/user/32587/files/fcb96880-5005-11eb-8041-12917c6a1ca2)
+![wireframe]()
 
 ---
 
