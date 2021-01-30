@@ -35,11 +35,12 @@ This project version one should allow a user to sign up, sign in, change passwor
 ## Images
 
 #### Wireframe:
-![wireframe]()
+![wireframe](https://i.imgur.com/V0Mrf4t.png)
+![wireframe](https://i.imgur.com/hMs9aQT.png)
+![wireframe](https://i.imgur.com/OCdz6Sw.png)
+
 
 ---
 
 #### ERD:
 ![ERD]()
-
-![Imgur](https://i.imgur.com/ObzkH5K.png =150x)
