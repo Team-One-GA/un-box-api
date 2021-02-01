@@ -1,6 +1,24 @@
-# Application Title: Un-Box
+# Application Title: Un_Box
 
-This application allows the user to sign up, sign in, change password and sign out. Once the user has created an account and is signed in the user can then  .
+This application allows the user to sign up, sign in, change password and sign out. Once the user has created an account and is signed in the user can then add/update items in their respective inventory.
+
+### Authentication:
+| Action | Method | Path |
+| ----------- | ----------- | ----------- |
+| Sign-Up | POST | /sign-up
+| Sign-In | POST  | /sign-in
+| Change-Password |  PATCH | /change-password
+| Sign-Out | DELETE | /delete
+
+
+### Items: (Token Required)
+| Routes | Method | Path |
+| ----------- | ----------- | ----------- |
+| Create | POST | /items
+| Index | GET | /items
+| Show | GET | /items/:id
+| Update | PATCH | /items/:id
+| Delete | DELETE | /items/:id
 
 ## Important Links
 
