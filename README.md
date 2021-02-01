@@ -22,7 +22,7 @@ This project version one should allow a user to sign up, sign in, change passwor
 
 ### Technologies Used
 - Javascript
-- Mongodb
+- Mongoose
 
 ### Unsolved Problems
 
