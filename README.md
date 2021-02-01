@@ -4,7 +4,7 @@ This application allows the user to sign up, sign in, change password and sign o
 
 ## Important Links
 
-- [Other Repo](https://github.com/Team-One-GA/un-box-client)
+- [Client Repo](https://github.com/Team-One-GA/un-box-client)
 - [Deployed API](https://infinite-fjord-17311.herokuapp.com/)
 - [Deployed Client](https://team-one-ga.github.io/un-box-client/#/)
 
@@ -42,4 +42,4 @@ This project version one should allow a user to sign up, sign in, change passwor
 ---
 
 #### ERD:
-![ERD](https://imgur.com/a56xwTz)
+![ERD](https://i.imgur.com/a56xwTz.png)
