@@ -29,8 +29,7 @@ This project version one should allow a user to sign up, sign in, change passwor
 
 ### Unsolved Problems
 
-- Landing page, checkbox
-
+- Landing page
 
 ## Images
 
@@ -43,4 +42,4 @@ This project version one should allow a user to sign up, sign in, change passwor
 ---
 
 #### ERD:
-![ERD]()
+![ERD](https://imgur.com/a56xwTz)
