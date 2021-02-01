@@ -10,7 +10,8 @@ const router = express.Router()
 
 // Index
 router.get('/items', requireToken, (req, res, next) => {
-  Item.find()
+  const ownerId = req.user._id
+  Item.find({owner: ownerId})
     .then(items => {
       return items.map(item => item.toObject())
     })
