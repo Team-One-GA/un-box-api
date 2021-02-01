@@ -21,25 +21,14 @@ This project version one should allow a user to sign up, sign in, change passwor
 - As a user I want to Delete a user I created
 
 ### Technologies Used
-
-- React
-- HTML/CSS
-- Bootstrap
 - Javascript
+- Mongodb
 
 ### Unsolved Problems
 
-- Landing page
+- None 
 
 ## Images
-
-#### Wireframe:
-![wireframe](https://i.imgur.com/V0Mrf4t.png)
-![wireframe](https://i.imgur.com/hMs9aQT.png)
-![wireframe](https://i.imgur.com/OCdz6Sw.png)
-
-
----
 
 #### ERD:
 ![ERD](https://i.imgur.com/a56xwTz.png)
